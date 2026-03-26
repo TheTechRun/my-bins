@@ -1,0 +1,1 @@
+/home/ttr/nixos-config/modules/development/python/nixpy
